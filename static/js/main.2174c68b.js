@@ -49872,7 +49872,7 @@
                             Dt.jsx)("a", {
                                 target: "_blank",
                                 rel: "noreferrer",
-                                href: "https://valya-karmolog.github.io",
+                                href: "https://https://www.instagram.com/valia_kuzmenko4470/",
                                 children: (0,
                                 Dt.jsx)("button", {
                                     className: "btn btn_compatibility-matrix",
@@ -51447,7 +51447,7 @@
                         Dt.jsx)("a", {
                             target: "_blank",
                             rel: "noreferrer",
-                            href: "https://valya-karmolog.github.io",
+                            href: "https://https://www.instagram.com/valia_kuzmenko4470/",
                             children: (0,
                             Dt.jsx)("button", {
                                 className: "btn btn_compatibility-matrix",
@@ -51521,7 +51521,7 @@
           , ph = r(4165)
           , gh = r(5861)
           , mh = r.p + "./static/media/inst.80e598d8df0c0a94d580.png"
-          , vh = r.p + "./static/media/tiktok.797444d6c1f835ad4f9f.png"
+          //, vh = r.p + "./static/media/tiktok.797444d6c1f835ad4f9f.png"
           , wh = r.p + "./static/media/tg.22c1477df3427953631c.png"
           , yh = function() {
             var e = ke()
@@ -51654,7 +51654,7 @@
                                 Dt.jsx)("a", {
                                     target: "_blank",
                                     rel: "noreferrer",
-                                    href: "",
+                                    href: "https://valya-karmolog.github.io/",
                                     children: (0,
                                     Dt.jsx)("img", {
                                         src: vh,
@@ -55195,7 +55195,7 @@
                             Dt.jsx)("a", {
                                 target: "_blank",
                                 rel: "noreferrer",
-                                href: "https://valya-karmolog.github.io",
+                                href: "https://www.instagram.com/valia_kuzmenko4470/",
                                 children: (0,
                                 Dt.jsx)("button", {
                                     className: "btn btn_compatibility-matrix",

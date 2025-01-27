@@ -39194,7 +39194,7 @@
 									}), (0, Dt.jsx)("a", {
 										target: "_blank",
 										rel: "noreferrer",
-										href: "https://valya-karmolog.github.io",
+										href: "https://https://www.instagram.com/valia_kuzmenko4470/",
 										children: (0, Dt.jsx)("button", {
 											className: "btn btn_compatibility-matrix",
 											style: {
@@ -40486,7 +40486,7 @@
 								}), (0, Dt.jsx)("a", {
 									target: "_blank",
 									rel: "noreferrer",
-									href: "https://valya-karmolog.github.io",
+									href: "https://https://www.instagram.com/valia_kuzmenko4470/",
 									children: (0, Dt.jsx)("button", {
 										className: "btn btn_compatibility-matrix",
 										style: {
@@ -43482,7 +43482,7 @@
 									}), (0, Dt.jsx)("a", {
 										target: "_blank",
 										rel: "noreferrer",
-										href: "https://valya-karmolog.github.io",
+										href: "https://https://www.instagram.com/valia_kuzmenko4470/",
 										children: (0, Dt.jsx)("button", {
 											className: "btn btn_compatibility-matrix",
 											style: {
