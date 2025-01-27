@@ -51447,7 +51447,7 @@
                         Dt.jsx)("a", {
                             target: "_blank",
                             rel: "noreferrer",
-                            href: "https://https://www.instagram.com/valia_kuzmenko4470/",
+                            href: "https://www.instagram.com/valia_kuzmenko4470/",
                             children: (0,
                             Dt.jsx)("button", {
                                 className: "btn btn_compatibility-matrix",
@@ -51645,21 +51645,6 @@
                                         src: wh,
                                         alt: "TelegramImg",
                                         width: "50px"
-                                    })
-                                })
-                            }), (0,
-                            Dt.jsx)("div", {
-                                className: "social-link",
-                                children: (0,
-                                Dt.jsx)("a", {
-                                    target: "_blank",
-                                    rel: "noreferrer",
-                                    href: "https://valya-karmolog.github.io/",
-                                    children: (0,
-                                    Dt.jsx)("img", {
-                                        src: vh,
-                                        alt: "TikTokImg",
-                                        width: "45px"
                                     })
                                 })
                             })]
