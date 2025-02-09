@@ -49869,20 +49869,6 @@
                                     children: "\u0417\u0410\u041c\u041e\u0412\u0418\u0422\u0418 \u041a\u041e\u041d\u0421\u0423\u041b\u042c\u0422\u0410\u0426\u0406\u042e"
                                 })
                             }), (0,
-                            Dt.jsx)("a", {
-                                target: "_blank",
-                                rel: "noreferrer",
-                                href: "https://https://www.instagram.com/valia_kuzmenko4470/",
-                                children: (0,
-                                Dt.jsx)("button", {
-                                    className: "btn btn_compatibility-matrix",
-                                    style: {
-                                        width: 170,
-                                        height: 37
-                                    },
-                                    children: "\u041f\u043e\u0441\u043b\u0443\u0433\u0438 \u0442\u0430 \u0432\u0430\u0440\u0442\u0456\u0441\u0442\u044c"
-                                })
-                            }), (0,
                             Dt.jsx)("button", {
                                 className: "button btn",
                                 style: {
@@ -51442,20 +51428,6 @@
                             Dt.jsx)("button", {
                                 className: "btn btn_compatibility-matrix",
                                 children: "\u0417\u0410\u041c\u041e\u0412\u0418\u0422\u0418 \u041a\u041e\u041d\u0421\u0423\u041b\u042c\u0422\u0410\u0426\u0406\u042e"
-                            })
-                        }), (0,
-                        Dt.jsx)("a", {
-                            target: "_blank",
-                            rel: "noreferrer",
-                            href: "https://www.instagram.com/valia_kuzmenko4470/",
-                            children: (0,
-                            Dt.jsx)("button", {
-                                className: "btn btn_compatibility-matrix",
-                                style: {
-                                    width: 170,
-                                    height: 37
-                                },
-                                children: "\u041f\u043e\u0441\u043b\u0443\u0433\u0438 \u0442\u0430 \u0432\u0430\u0440\u0442\u0456\u0441\u0442\u044c"
                             })
                         }), (0,
                         Dt.jsx)("button", {
@@ -55132,21 +55104,7 @@
                                     className: "btn btn_compatibility-matrix",
                                     children: "\u0417\u0410\u041c\u041e\u0412\u0418\u0422\u0418 \u041a\u041e\u041d\u0421\u0423\u041b\u042c\u0422\u0410\u0426\u0406\u042e"
                                 })
-                            }), (0,
-                            Dt.jsx)("a", {
-                                target: "_blank",
-                                rel: "noreferrer",
-                                href: "https://www.instagram.com/valia_kuzmenko4470/",
-                                children: (0,
-                                Dt.jsx)("button", {
-                                    className: "btn btn_compatibility-matrix",
-                                    style: {
-                                        width: 170,
-                                        height: 37
-                                    },
-                                    children: "\u041f\u043e\u0441\u043b\u0443\u0433\u0438 \u0442\u0430 \u0432\u0430\u0440\u0442\u0456\u0441\u0442\u044c"
-                                })
-                            }), (0,
+                            }),  (0,
                             Dt.jsx)("button", {
                                 className: "button btn",
                                 style: {
