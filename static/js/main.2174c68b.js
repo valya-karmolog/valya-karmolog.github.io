@@ -51538,6 +51538,30 @@
                 Dt.jsx)("h1", {
                     className: "matrix-selection-page_wrapper_h1",
                     children: "\u041c\u0410\u0422\u0420\u0418\u0426\u0406 \u0414\u041e\u041b\u0406"
+					     }), (0,
+                Dt.jsxs)("div", {
+                    className: "buttons_wrapper",
+                    children: [(0,
+                    Dt.jsx)("button", {
+                        className: "btn buttons_wrapper-btn",
+                        onClick: (0,
+                        gh.Z)((0,
+                        ph.Z)().mark((function r() {
+                            return (0,
+                            ph.Z)().wrap((function(r) {
+                                for (; ; )
+                                    switch (r.prev = r.next) {
+                                    case 0:
+                                        t(zi.actions.setClearState()),
+                                        e("/personal-matrix");
+                                    case 2:
+                                    case "end":
+                                        return r.stop()
+                                    }
+                            }
+                            ), r)
+                        }
+                        ))),
                 }), 
                         children: "\u041e\u0421\u041e\u0411\u0418\u0421\u0422\u0410 \u041c\u0410\u0422\u0420\u0418\u0426\u042f"
                     }), (0,
@@ -51562,6 +51586,29 @@
                         }
                         ))),
                         children: "\u041e\u0421\u041e\u0411\u0418\u0421\u0422\u0410 \u041c\u0410\u0422\u0420\u0418\u0426\u042f INTEGRITY"
+						 }), (0,
+                    Dt.jsx)("button", {
+                        className: "btn buttons_wrapper-btn",
+                        onClick: (0,
+                        gh.Z)((0,
+                        ph.Z)().mark((function r() {
+                            return (0,
+                            ph.Z)().wrap((function(r) {
+                                for (; ; )
+                                    switch (r.prev = r.next) {
+                                    case 0:
+                                        t(zi.actions.setClearState()),
+                                        e("/compatibility-matrix");
+                                    case 2:
+                                    case "end":
+                                        return r.stop()
+                                    }
+                            }
+                            ), r)
+                        }
+                        ))),
+                        children: "\u041c\u0410\u0422\u0420\u0418\u0426\u042f \u0421\u0423\u041c\u0406\u0421\u041d\u041e\u0421\u0422\u0406"
+                    })]
                     })
                 }), (0,
                 Dt.jsxs)("div", {
