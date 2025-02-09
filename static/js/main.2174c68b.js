@@ -51553,7 +51553,7 @@
                                     switch (r.prev = r.next) {
                                     case 0:
                                         t(zi.actions.setClearState()),
-                                        e("/personal-matrix");
+                                        e("/integrity-matrix");
                                     case 2:
                                     case "end":
                                         return r.stop()
@@ -51562,8 +51562,8 @@
                             ), r)
                         }
                         ))),
-                        children: "\u041e\u0421\u041e\u0411\u0418\u0421\u0422\u0410 \u041c\u0410\u0422\u0420\u0418\u0426\u042f"
-                    }), ]
+                        children: "\u041e\u0421\u041e\u0411\u0418\u0421\u0422\u0410 \u041c\u0410\u0422\u0420\u0418\u0426\u042f INTEGRITY"
+                    }) ]
                 }), (0,
                 Dt.jsxs)("div", {
                     className: "social-and-photo",
